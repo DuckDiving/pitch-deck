@@ -1,0 +1,29 @@
+body {
+    background-image: url('../images/stonebackground_4.jpeg');
+    background-repeat: no-repeat;
+}
+
+.carousel-item span {
+    position: absolute;
+    z-index: 999;
+    margin: 0;
+    left: 0px;
+    bottom: 5px;
+    width: 80px;
+    height: 20px;
+    padding: 0px;
+    color: #fff;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+    font-size: 10px;
+    }
+
+.container-fluid {
+    padding: 50px 50px !important;
+    margin: 0 !important;
+    }
+
+.row {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
